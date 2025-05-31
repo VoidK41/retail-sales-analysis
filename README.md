@@ -32,16 +32,16 @@ This project explores and analyzes retail sales data to uncover key business ins
 ## 📈 Exploratory Data Analysis (EDA)
 
 ### 🔝 Top 10 Best Selling Products
-<img src="C:\Project Coding\AI Engineer\retail_sales_prediction\images\topselling.png" alt="Top Products" width="700">
+<img src="images/topselling.png" alt="Top Products" width="700">
 
 ### 📅 Monthly Sales Trend
-<img src="C:\Project Coding\AI Engineer\retail_sales_prediction\images\monthlysales.png" alt="Monthly Sales Trend" width="700">
+<img src="images/monthlysales.png" alt="Monthly Sales Trend" width="700">
 
 ### 🗂️ Sales by Product Category
-<img src="C:\Project Coding\AI Engineer\retail_sales_prediction\images\salesbycategory.png" alt="Category Sales" width="700">
+<img src="images/salesbycategory.png" alt="Category Sales" width="700">
 
 ### 📉 Sales Trend Over Time
-<img src="C:\Project Coding\AI Engineer\retail_sales_prediction\images\salesovertime.png" alt="Sales Trend Over Time" width="700">
+<img src="images/salesovertime.png" alt="Sales Trend Over Time" width="700">
 
 ## 🤖 Machine Learning
 
