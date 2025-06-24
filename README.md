@@ -109,5 +109,8 @@ Thanks to the open dataset provider and the community for continuous inspiration
 
 ---
 
-Made with ❤️ by **Kaii**  
-📢 Feel free to ⭐ star this repo, fork it, or reach out with suggestions!
+## 👨‍💻 Author
+
+**Khairu Ikramendra**  
+Freelance dashboard developer & data analyst  
+[LinkedIn](https://www.linkedin.com/in/khairuikramendra/) | [Upwork](https://www.upwork.com/freelancers/~017002e8546494c6e9)
